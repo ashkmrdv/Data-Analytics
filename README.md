@@ -1,3 +1,3 @@
-This project was done using PowerBI, Python Jupyter and PostgreSQL
+This repository consists of data analytics projects done.
 
-It analysis the customer behaviour pattern, creates new features and displays them in PowerBI.
+1. Customer behavious analysis done using powerBI, postgreSQL and Python
